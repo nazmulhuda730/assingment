@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+/* header Benner section  */
+.new-year {
+    background-image: url('../images/Banner\ Image.png');
+    width: 100%;
+    max-width: 1320px;
+    height: 600px;
+    margin: 50px auto;
+}
+
+.benner {
+    text-align: center;
+    padding: 177px;
+}
+
+.benner-titel {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+}
+.benner-content {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 72px;
+    font-weight: 900;
+    color: #FFFFFF;
+}
+/* benner offer  */
+.offer{
+    text-align: center;
+    margin: 120px;
+}
+.offer-titel{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 88px;
+    color: #FF0000;
+    padding-bottom: 10px;
+}
+.offer-content{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #FF0000;
+    padding-bottom: 5px;
+}
+.offer-contant-1{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    color: #070211;
+    padding-bottom: 5px;
+}
